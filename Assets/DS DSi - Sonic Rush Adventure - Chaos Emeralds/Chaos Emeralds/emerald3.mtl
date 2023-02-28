@@ -1,0 +1,16 @@
+newmtl eme02
+Ka 0.5019608 0.282353 0
+Kd 0.7215686 0.5333334 0
+d 0.8064516
+Tr 0.8064516
+map_Ka eme02.png
+map_Kd eme02.png
+map_d eme02.png
+newmtl eme02_in
+Ka 0.972549 0.7529412 0.1254902
+Kd 0.972549 0.972549 0.972549
+d 1
+Tr 1
+map_Ka eme02_in.png
+map_Kd eme02_in.png
+map_d eme02_in.png
